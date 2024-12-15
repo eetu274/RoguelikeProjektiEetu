@@ -1,0 +1,1 @@
+Scriptit löytyy Assets > Scripts
